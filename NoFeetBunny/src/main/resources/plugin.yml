@@ -1,0 +1,4 @@
+name: NoFeetBunny
+version: '${version}'
+main: me.alex_650.nofeetbunny.NoFeetBunny
+api-version: '1.19'
